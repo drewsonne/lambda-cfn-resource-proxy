@@ -1,0 +1,1 @@
+# lambda-cfn-resource-proxy
