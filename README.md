@@ -1,6 +1,6 @@
 # lambda-cfn-resource-proxy 1.0.0
 An AWS Cloudformation Lambda backed Custom resource to allow you to find
-resources via their tags, and access their ARNs, or ID.
+resources via their tags, and access their IDs.
 
 ## Quickstart
 
